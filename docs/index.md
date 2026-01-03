@@ -1,4 +1,3 @@
-# Hello
 
 My name is Rory Conlin and I work on physics and math and engineering and stuff, mostly
 in the realm of plasma physics and nuclear fusion.

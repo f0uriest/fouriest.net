@@ -1,6 +1,21 @@
 site_name: fouriest
+repo_url: https://github.com/f0uriest/fouriest.org
+edit_uri: edit/main/docs/
 
-theme: terminal
+nav:
+  - Home: 'index.md'
+  - Publications: 'publications.md'
+
+plugins:
+  - search
+  - git-revision-date
+
+theme:
+  name: terminal
+  palette: dark
+  features:
+    - revision.date
+    - revision.history
 
 markdown_extensions:
   - pymdownx.arithmatex:

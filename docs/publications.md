@@ -1,4 +1,3 @@
-# Publications
 
 For a complete list, see [Google scholar](https://scholar.google.com/citations?hl=en&user=ZzxaKzAAAAAJ&view_op=list_works&gmla=AElLoL27YeY2j98Wpk1ucJrOjAyynnM7MNLivAmAlnN5iUPDLMoP7aplb6QBQv9r6OQKq8LHjWdsQOw6dmNYd4-f)
 
