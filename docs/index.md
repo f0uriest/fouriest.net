@@ -10,4 +10,4 @@ My research is a combination of plasma physics, optimization, numerical methods 
 - [quadax](https://github.com/f0uriest/quadax) for numerical quadrature
 - [orthax](https://github.com/f0uriest/orthax) for working with orthogonal polynomials
 
-You can find me on [github](https://github.com/f0uriest) or via [mail@fouriest.org](mailto:mail@fouriest.org)
+You can find me on [github](https://github.com/f0uriest) or via [mail@fouriest.net](mailto:mail@fouriest.net)
